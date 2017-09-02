@@ -17,11 +17,28 @@ class Solution {
             int right = x % 10;
             x /= 10;
             x %= (pow/10);
-            // System.out.println(x + ":" +left + ":" + right);
             if(left != right) {
                 return false;
             }
         }
         return true;
+    }
+}
+
+// ALTERNATIVE SOLUTION (FASTER)
+class Solution {
+    public boolean isPalindrome(int x) {
+        if(x < 0) {
+            return false;
+        }
+        x = Math.abs(x);
+        int reverse = 0;
+        int original = x;
+        while(x > 0) {
+            reverse *= 10;
+            reverse += x % 10;
+            x /= 10;
+        }
+        return original == reverse;
     }
 }

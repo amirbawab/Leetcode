@@ -6,3 +6,4 @@
 * [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) - [Solution](ID_3.java)
 * [ZigZag Conversion ](https://leetcode.com/problems/zigzag-conversion/description/) - [Solution](ID_6.java)
 * [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) - [Solution](ID_7.java)
+* [String to Integer (atoi) ](https://leetcode.com/problems/string-to-integer-atoi/description/) - [Solution](ID_8.java)

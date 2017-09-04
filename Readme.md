@@ -17,3 +17,4 @@
 | [Merge Two Sorted Lists ](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](ID_21.java) |
 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Solution](ID_22.java) |
 | [Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Solution](ID_24.java) |
+| [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](ID_26.java) |

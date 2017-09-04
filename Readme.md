@@ -18,3 +18,4 @@
 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Solution](ID_22.java) |
 | [Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Solution](ID_24.java) |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](ID_26.java) |
+| [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Solution](ID_28.java) |

@@ -19,5 +19,5 @@
 | [Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Solution](ID_24.java) |
 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](ID_26.java) |
 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [Solution](ID_28.java) |
-| [Combination Sum ](https://leetcode.com/problems/combination-sum/description/) | [Solution](ID_39.java) |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Solution](ID_33.java) |
+| [Combination Sum ](https://leetcode.com/problems/combination-sum/description/) | [Solution](ID_39.java) |

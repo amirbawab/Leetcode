@@ -23,3 +23,4 @@
 | [Search for a Range ](https://leetcode.com/problems/search-for-a-range/description/) | [Solution](ID_34.java) |
 | [Search Insert Position ](https://leetcode.com/problems/search-insert-position/description/) | [Solution](ID_35.java) |
 | [Combination Sum ](https://leetcode.com/problems/combination-sum/description/) | [Solution](ID_39.java) |
+| [First Missing Positive ](https://leetcode.com/problems/first-missing-positive/description/) | [Solution](ID_41.java) |

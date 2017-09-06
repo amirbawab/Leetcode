@@ -24,3 +24,4 @@
 | [Search Insert Position ](https://leetcode.com/problems/search-insert-position/description/) | [Solution](ID_35.java) |
 | [Combination Sum ](https://leetcode.com/problems/combination-sum/description/) | [Solution](ID_39.java) |
 | [First Missing Positive ](https://leetcode.com/problems/first-missing-positive/description/) | [Solution](ID_41.java) |
+| [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Solution](ID_42.java) |

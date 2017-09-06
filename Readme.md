@@ -26,3 +26,4 @@
 | [First Missing Positive ](https://leetcode.com/problems/first-missing-positive/description/) | [Solution](ID_41.java) |
 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Solution](ID_42.java) |
 | [Permutations](https://leetcode.com/problems/permutations/description/) | [Solution](ID_46.java) |
+| [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [Solution](ID_47.java) |

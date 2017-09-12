@@ -30,3 +30,4 @@
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Solution](ID_49.java) |
 | [Jump Game ](https://leetcode.com/problems/jump-game/description/) | [Solution](ID_55.java) |
 | [Merge Intervals ](https://leetcode.com/problems/merge-intervals/description/) | [Solution](ID_56.java) |
+| [Length of Last Word ](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](ID_58.java) |

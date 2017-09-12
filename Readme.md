@@ -29,3 +29,4 @@
 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [Solution](ID_47.java) |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Solution](ID_49.java) |
 | [Jump Game ](https://leetcode.com/problems/jump-game/description/) | [Solution](ID_55.java) |
+| [Merge Intervals ](https://leetcode.com/problems/merge-intervals/description/) | [Solution](ID_56.java) |

@@ -32,3 +32,4 @@
 | [Merge Intervals ](https://leetcode.com/problems/merge-intervals/description/) | [Solution](ID_56.java) |
 | [Length of Last Word ](https://leetcode.com/problems/length-of-last-word/description/) | [Solution](ID_58.java) |
 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [Solution](ID_59.java) |
+| [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | [Solution](ID_60.java) |
